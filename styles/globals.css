@@ -24,3 +24,21 @@ a {
     background: black;
   }
 }
+
+section {
+  padding: 16px;
+}
+
+header {
+  font-size: 16px;
+  font-weight: 300;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #777888;
+}
+
+.action {
+  font-size: 16px;
+  font-weight: 300;
+  padding: 12px;
+  border: 1px solid #777888;
+}
